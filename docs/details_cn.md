@@ -1,6 +1,6 @@
 # <h1 align = "center">[🌟LilyGO T-Block🌟](https://shop135629592.taobao.com/category-1577592143.htm?spm=2013.1.w5842-23579470093.15.28a4716d5EOxi8&search=y&parentCatId=1496371963&parentCatName=T%CF%B5%C1%D0%D6%F7%BB%FA&catName=T-BLock#bd)</h1>
 
-**[English](README.md) | 中文**
+**[English](../README.md) | 中文**
 
 ![screenshot](../img/TBlock.jpg)
 
